@@ -6,7 +6,7 @@
 Code will be  available after the IJCAI-2022 meeting.
 
 ## 1: Required Environment Installation
-Please use the command  `pip install requirement.txt` or manually install the following packages.
+Please use the command  `pip install -r requirements.txt` or manually install the following packages.
   + torch==1.9.0+cu111
   + numpy==1.20.1
   + matplotlib==3.3.4
@@ -42,9 +42,20 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 
 
 ### Summary
-If you have done the above, run the ./dataset/data_read.py  for a simple test.
+ + If you have done the above, run the ./dataset/data_read.py  for a simple test.
+ + Run ./dataset/data_loder.py to check that the data loader is running correctly.
+ + 
 
 
+## 3: Network Model Checking
+
+  + Download the Alexnet model parameter  that pre-trained on ImageNet, and  run the ./model/alexnet.py to check the AlexNet model.
+  + Run the ./model/paper_alexnet.py to check the DALCC model.
+ 
+
+## 4: Train and Test
+  + Run the ./train.py to train the DALCC model.
+  + Run the ./test.py to test the DALCC model.
 
 
 
