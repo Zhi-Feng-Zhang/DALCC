@@ -1,6 +1,9 @@
 [![License](https://img.shields.io/bower/l/MI)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
+This repo contains the official implementation of the IJCAI 2022 paper 'Domain Adversarial Learning for Color Constancy' ,the code will be available after the
+IJCAI-2022 meeting.
+
 <div align="center">
 <h1>
 <b>
@@ -20,9 +23,7 @@ School of Computer Science (National Pilot Software Engineering School), Beijing
 </div>
 
 
-#  Official codes for 'Domain Adversarial Learning for Color Constancy'.
 
-Code will be  available after the IJCAI-2022 meeting.
 
 ## 1: Required Environment Installation
 Please use the command  `pip install -r requirements.txt` or manually install the following packages.
