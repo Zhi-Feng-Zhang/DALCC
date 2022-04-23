@@ -3,7 +3,7 @@
 Code will be  available after the IJCAI-2022 meeting.
 
 ## 1: Required Environment Installation
-Please use the command  "pip install requirement.txt" or manually install the following packages.
+Please use the command  `pip install requirement.txt` or manually install the following packages.
   + torch==1.9.0+cu111
   + numpy==1.20.1
   + matplotlib==3.3.4
