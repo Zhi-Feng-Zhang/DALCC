@@ -9,10 +9,12 @@ Domain Adversarial Learning for Color Constancy
 </h1>
 <h4>
 <b>
-Zhifeng Zhang, xuejing Kang, Anlong Ming
+   
     
+***Zhifeng Zhang, xuejing Kang, Anlong Ming***
     
-Beijing University of Posts and Telecommunications
+School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications
+
 </b>
 </h4>
 </div>
