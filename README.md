@@ -3,14 +3,14 @@
 Code will be  available after the IJCAI-2022 meeting.
 
 ## 1: Required Environment Installation
-Please use the command  'pip install requirement.txt' or manually install the following packages.
-  +torch==1.9.0+cu111
-  +numpy==1.20.1
-  +matplotlib==3.3.4
-  +opencv_python==4.5.3.56
-  +torchsummary==1.5.1
-  +scipy==1.6.2
-  +torchvision==0.10.0+cu111
+Please use the command  "pip install requirement.txt" or manually install the following packages.
+  + torch==1.9.0+cu111
+  + numpy==1.20.1
+  + matplotlib==3.3.4
+  + opencv_python==4.5.3.56
+  + torchsummary==1.5.1
+  + scipy==1.6.2
+  + torchvision==0.10.0+cu111
 
 ## 2: Data Preprocessing
 
