@@ -61,10 +61,10 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
  + You can find the pretrained model on Cube+ and NUS-8 on [Pretrained Model](https://github.com/Zhi-Feng-Zhang/DALCC/). 
 
 ## 6: Visualization of our DALCC.
-+ ![Image]{https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/show.png}
-+ ![Image]{https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/CDC.png}
-+ ![Image]{https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/ITM.png}
-+ ![Image]{https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/FRM.png}
++ ![Image](https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/show.png)
++ ![Image](https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/CDC.png)
++ ![Image](https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/ITM.png)
++ ![Image](https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/images/FRM.png)
 
 
 
