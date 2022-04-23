@@ -22,29 +22,29 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 
 ### Color Checker Data preprocessing:
 + Download the dataset on: https://www2.cs.sfu.ca/~colour/data/shi_gehler/
-+ Store the download file in: /dataset/colorconstancy/colorchecker2010/
-+ Set the path of the output file, such as: /home/***/data/CC_full_size or /home/***/data/CC_resize
++ Store the download file in: `/dataset/colorconstancy/colorchecker2010/`
++ Set the path of the output file, such as: `/home/*/data/CC_full_size/` or `/home/*/data/CC_resize/`
 + Run the `./dataset/color_constancy_data_process_all.py` code
 
 ### Cube+  Data preprocessing
 + Download the dataset on: https://ipg.fer.hr/ipg/resources/color_constancy
-+ Store the download file in: /dataset/colorconstancy/Cube/
-+ Set the path of the output file, such as: /home/***/data/Cube_full_size or /home/***/data/Cube_resize
++ Store the download file in: `/dataset/colorconstancy/Cube/`
++ Set the path of the output file, such as: `/home/*/data/Cube_full_size/` or `/home/*/data/Cube_resize/`
 + Run the `./dataset/color_constancy_data_process_all.py` code
 
 
 
 ### NUS Data preprocessing
 + Download the dataset on: https://cvil.eecs.yorku.ca/projects/public_html/illuminant/illuminant.html
-+ Store the download file in: /dataset/colorconstancy/NUS/
-+ Set the path of the output file, such as: /home/***/data/NUS_full_size or /home/***/data/NUS_resize
++ Store the download file in: `/dataset/colorconstancy/NUS/`
++ Set the path of the output file, such as: `/home/*/data/NUS_full_size/` or `/home/*/data/NUS_resize/`
 + Run the `./dataset/color_constancy_data_process_all.py` code
 
 
 ### Summary
  + If you have done the above, run the `./dataset/data_read.py`  for a simple test.
  + Run `./dataset/data_loder.py` to check that the data loader is running correctly.
- + Refer to the `./dataset/fold_mdlcc.py` to check the three cross-validation. The fold for cross-validation can be found in ./data_fold/
+ + Refer to the `./dataset/fold_mdlcc.py` to check the three cross-validation. The fold for cross-validation can be found in `./data_fold/`
 
 
 ## 3: Network Model Checking
