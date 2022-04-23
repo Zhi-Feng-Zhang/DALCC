@@ -1,2 +1,2 @@
 # DALCC
-Domain Adversarial Learning for Color Constancy
+Official codes for 'Domain Adversarial Learning for Color Constancy'
