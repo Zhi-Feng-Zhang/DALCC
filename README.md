@@ -11,6 +11,7 @@ Domain Adversarial Learning for Color Constancy
 <b>
 Zhifeng Zhang, xuejing Kang, Anlong Ming
     
+    
 Beijing University of Posts and Telecommunications
 </b>
 </h4>
@@ -78,9 +79,6 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 
 ## 6: Visualization of our DALCC.
 ![show](https://user-images.githubusercontent.com/71373856/164892251-b29b9cd0-999e-40a6-b283-1a5d44a0857d.png)
-![CDC](https://user-images.githubusercontent.com/71373856/164892255-21540ba7-30ec-4501-b474-645ba34c777c.png)
-![FRM](https://user-images.githubusercontent.com/71373856/164892258-4d7c5d7a-7683-4b51-9608-8706f233143f.png)
-![ITM](https://user-images.githubusercontent.com/71373856/164892265-665e1982-cd69-49e5-bcee-552b1c8c2ea2.png)
 
 
 
