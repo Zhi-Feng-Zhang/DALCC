@@ -44,7 +44,7 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 ### Summary
  + If you have done the above, run the `./dataset/data_read.py`  for a simple test.
  + Run `./dataset/data_loder.py` to check that the data loader is running correctly.
- + Refer to the `./dataset/fold_mdlcc.py` to check the three cross-validation. The fold for cross-validation can be found in `./data_fold/`
+ + Refer to the `./dataset/fold_dalcc.py` to check the three cross-validation. The fold for cross-validation can be found in `./data_fold/`
 
 
 ## 3: Network Model Checking
