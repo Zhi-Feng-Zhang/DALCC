@@ -1,4 +1,7 @@
-#  Official codes for 'DALCC: Domain Adversarial Learning for Color Constancy'.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/MIT)
+[![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+
+#  Official codes for 'Domain Adversarial Learning for Color Constancy'.
 
 Code will be  available after the IJCAI-2022 meeting.
 
