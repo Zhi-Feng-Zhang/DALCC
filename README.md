@@ -50,7 +50,7 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 ## 3: Network Model Checking
 
   + Download the Alexnet model parameter  that pre-trained on ImageNet, and  run the `./model/alexnet.py` to check the AlexNet model.
-  + Run the `./model/paper_alexnet.py` to check the DALCC model.
+  + Run the `./model/DALCC.py` to check the DALCC model.
  
 
 ## 4: Train and Test
