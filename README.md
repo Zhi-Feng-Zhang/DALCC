@@ -16,7 +16,7 @@ Domain Adversarial Learning for Color Constancy
     
 ***Zhifeng Zhang, Xuejing Kang, Anlong Ming***
     
-School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications
+School of Computer Science, Beijing University of Posts and Telecommunications
 
 </b>
 </h4>
