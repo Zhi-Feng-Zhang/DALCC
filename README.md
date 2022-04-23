@@ -4,7 +4,7 @@ Code will be  available after the IJCAI-2022 meeting.
 
 ## Data Preprocessing
 
-For details on RAW image preprocessing principle, please refer to  [RAW预处理-MATLAB](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments/) and [RAW预处理-Python](https://nbviewer.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb/).  
+For details on RAW image preprocessing principle, please refer to  [RAW_preprocessing_MATLAB](https://ridiqulous.com/process-raw-data-using-matlab-and-dcraw/comment-page-3/#comments/) and [RAW_preprocessing_Python](https://nbviewer.org/github/yourwanghao/CMUComputationalPhotography/blob/master/class2/notebook2.ipynb/).  
 
 
 ### Color Checker Data preprocessing:
@@ -20,10 +20,14 @@ For details on RAW image preprocessing principle, please refer to  [RAW预处理
 + 4: Run the ./dataset/color_constancy_data_process_all.py code
 
 
-"""
+
 ### NUS :Data preprocessing
 + 1: Download the dataset on: https://cvil.eecs.yorku.ca/projects/public_html/illuminant/illuminant.html
 + 2: Store the download file in: /dataset/colorconstancy/NUS/
 + 3: Set the path of the output file, such as: /home/***/data/NUS_full_size or /home/***/data/NUS_resize
 + 4: Run the ./dataset/color_constancy_data_process_all.py code
-"""
+
+
+
+### Summary
+If you have done the above, run the data_read.py  for a simple test.
