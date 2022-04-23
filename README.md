@@ -30,4 +30,4 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 
 
 ### Summary
-If you have done the above, run the data_read.py  for a simple test.
+If you have done the above, run the ./dataset/data_read.py  for a simple test.
