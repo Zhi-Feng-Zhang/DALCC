@@ -2,7 +2,7 @@
 [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 This repo contains the official implementation of the IJCAI 2022 paper 'Domain Adversarial Learning for Color Constancy' ,the code will be available after the
-IJCAI-2022 meeting.
+IJCAI 2022 meeting.
 
 <div align="center">
 <h1>
