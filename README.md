@@ -24,13 +24,13 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 + Download the dataset on: https://www2.cs.sfu.ca/~colour/data/shi_gehler/
 + Store the download file in: /dataset/colorconstancy/colorchecker2010/
 + Set the path of the output file, such as: /home/***/data/CC_full_size or /home/***/data/CC_resize
-+ Run the ./dataset/color_constancy_data_process_all.py code
++ Run the `./dataset/color_constancy_data_process_all.py` code
 
 ### Cube+  Data preprocessing
 + Download the dataset on: https://ipg.fer.hr/ipg/resources/color_constancy
 + Store the download file in: /dataset/colorconstancy/Cube/
 + Set the path of the output file, such as: /home/***/data/Cube_full_size or /home/***/data/Cube_resize
-+ Run the ./dataset/color_constancy_data_process_all.py code
++ Run the `./dataset/color_constancy_data_process_all.py` code
 
 
 
@@ -38,24 +38,23 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
 + Download the dataset on: https://cvil.eecs.yorku.ca/projects/public_html/illuminant/illuminant.html
 + Store the download file in: /dataset/colorconstancy/NUS/
 + Set the path of the output file, such as: /home/***/data/NUS_full_size or /home/***/data/NUS_resize
-+ Run the ./dataset/color_constancy_data_process_all.py code
++ Run the `./dataset/color_constancy_data_process_all.py` code
 
 
 ### Summary
- + If you have done the above, run the ./dataset/data_read.py  for a simple test.
- + Run ./dataset/data_loder.py to check that the data loader is running correctly.
- + 
+ + If you have done the above, run the `./dataset/data_read.py`  for a simple test.
+ + Run `./dataset/data_loder.py` to check that the data loader is running correctly.
 
 
 ## 3: Network Model Checking
 
-  + Download the Alexnet model parameter  that pre-trained on ImageNet, and  run the ./model/alexnet.py to check the AlexNet model.
-  + Run the ./model/paper_alexnet.py to check the DALCC model.
+  + Download the Alexnet model parameter  that pre-trained on ImageNet, and  run the `./model/alexnet.py` to check the AlexNet model.
+  + Run the `./model/paper_alexnet.py` to check the DALCC model.
  
 
 ## 4: Train and Test
-  + Run the ./train.py to train the DALCC model.
-  + Run the ./test.py to test the DALCC model.
+  + Run the `./train.py` to train the DALCC model.
+  + Run the `./test.py` to test the DALCC model.
 
 ## 5: Pretrained model
  + You can find the pretrained model on Cube+ and NUS-8 on [Pretrained Model](https://github.com/Zhi-Feng-Zhang/DALCC/). 
