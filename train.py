@@ -5,7 +5,6 @@ import torch
 import torchvision
 import argparse
 import os
-#数据集
 from dataset.fold_mdlcc import *
 import model.paper_alexnet as fc4_model
 import evaluation.metrics as metrics
