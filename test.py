@@ -4,7 +4,6 @@ from model.Non_local import NONLocalBlock2D
 import torch
 import numpy as np
 import os
-#数据集
 from dataset.fold_mdlcc import *
 import model.paper_alexnet as fc4_model
 import evaluation.metrics as metrics
