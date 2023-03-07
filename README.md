@@ -78,7 +78,7 @@ For details on RAW image preprocessing principle, please refer to  [RAW_preproce
   + Run the `./test.py` to test the DALCC model.
 
 ## 5: Pretrained model
- + You can find the pretrained model on Cube+ and NUS-8 on [Pretrained Model](https://github.com/Zhi-Feng-Zhang/DALCC/). 
+ + You can find the pretrained model on Cube+ and NUS-8 on [Pretrained Model](https://github.com/Zhi-Feng-Zhang/DALCC/tree/main/pretrain). 
 
 ## 6: Visualization of our DALCC.
 ![show](https://user-images.githubusercontent.com/71373856/164892251-b29b9cd0-999e-40a6-b283-1a5d44a0857d.png)
