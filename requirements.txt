@@ -1,5 +1,5 @@
 torch==1.9.0+cu111
-numpy==1.20.1
+numpy==1.22.0
 matplotlib==3.3.4
 opencv_python==4.5.3.56
 torchsummary==1.5.1
